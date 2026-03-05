@@ -51,30 +51,6 @@ I enjoy solving real-world problems through technology and building applications
 
 ---
 
-# 📱 Projects
-
-### 🚚 Courier Service Mobile Application
-
-Developed a **full-stack courier delivery mobile application** where users can register, request courier services, select suitable vehicles based on parcel size and weight, and track their parcel in real-time from pickup to delivery.
-
-**Tech Stack:** Flutter, Node.js, SQL
-
-**Key Features:**
-- User registration and authentication  
-- Vehicle selection based on parcel weight and size  
-- Dynamic fare calculation based on distance and parcel weight  
-- Real-time parcel tracking  
-- Pickup and delivery management  
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
----
 
 # 🚀 Interests
 
