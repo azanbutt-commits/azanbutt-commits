@@ -47,10 +47,6 @@ I enjoy solving real-world problems through technology and building applications
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azanbutt-commits&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azanbutt-commits&layout=compact&theme=tokyonight)
-
 ![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=azanbutt-commits&theme=tokyonight)
 
 ---
