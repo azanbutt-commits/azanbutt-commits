@@ -10,7 +10,9 @@ I enjoy solving real-world problems through technology and building applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azan-butt-b2b31531b/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:buttazan486@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/azan.butt.98871/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/azan.butt._/)
+[![Instagram](https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white)](https://www.instagram.com/azanbutt.98871/)
+
 
 
 ---
